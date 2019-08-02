@@ -17,5 +17,4 @@ public class HelloControler {
         return helloService.hiService(name);
     }
 
-
 }
